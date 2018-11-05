@@ -20,4 +20,14 @@ https://www.youtube.com/watch?v=PrwwGuwq44g
 
 
 https://jsonplaceholder.typicode.com/
-
+https://openclassrooms.com/en/courses/4387551-crea-paginas-web-interactivas-con-javascript/4482861-utiliza-una-api-web
+https://coderwall.com/p/7begkw/fatal-remote-error-you-can-t-push-to-git
+https://blog.ng-classroom.com/blog/ionic2/clase-3-user-auth/
+https://www.youtube.com/watch?v=E4S1yVBUPpk
+https://github.com/ng-classroom/demo103
+https://gersonlazaro.com/unsplash-api-miles-de-fotos-gratis-en-tu-sitio-web-o-aplicacion/
+https://drive.google.com/drive/folders/1gLFxupgHxcFFkDa0E67OQiNnzZZzoXmJ
+https://www.youtube.com/playlist?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG
+https://www.youtube.com/watch?v=PrwwGuwq44g
+https://jsonplaceholder.typicode.com/
+https://www.youtube.com/watch?v=IZVhMPSfqAQ&list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG
