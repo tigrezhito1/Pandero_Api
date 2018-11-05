@@ -14,3 +14,10 @@ bash:
 /bin:
 /root/Android/Sdk/tools:
 /root/Android/Sdk/platform-tools::/home/jose/Descargas/android-studio/gradle/gradle-4.6/bin: No existe el fichero o el directorio
+
+
+https://www.youtube.com/watch?v=PrwwGuwq44g
+
+
+https://jsonplaceholder.typicode.com/
+
